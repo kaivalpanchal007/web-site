@@ -1,0 +1,32 @@
+*
+{
+    background-color: lightgreen;
+}
+.one1 img
+{
+    width: 300px;
+    height: 300px;
+}
+.one1 img:hover
+{
+    transform: scale(1.1);
+    transition: .2s;
+}
+#a1
+{
+    border: 2px solid black;
+}
+#a1:hover
+{
+    background-color: white;
+    color: red;
+}
+.b:hover
+{
+    border: solid black;
+    color: red;
+}
+#p
+{
+    color: red;
+}
